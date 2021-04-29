@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Service
 metadata:
   name: bootcamp-python
-  namespace: prod
+  namespace: prod1
 spec:
   selector:
     app: bootcamp-python
