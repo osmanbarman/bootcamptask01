@@ -3,7 +3,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: bootcamp-python
-  namespace: prod
+  namespace: prod1
 spec:
   selector:
     matchLabels:
